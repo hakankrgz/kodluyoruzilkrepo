@@ -4,3 +4,4 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ![Alt text](1.png?raw=true "Title")
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+www.patika.dev
